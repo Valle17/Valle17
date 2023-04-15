@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const Valle = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Python, PHP],
+  tools: [Bootstrap, Tailwind, Git, Postman, Laragon, Figma],
+}
+```

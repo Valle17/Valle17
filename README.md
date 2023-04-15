@@ -22,3 +22,5 @@ const Valle = {
   tools: [Bootstrap, Tailwind, Git, Postman, Laragon, Figma],
 }
 ```
+
+[![Valle17's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valle17)](https://github.com/anuraghazra/github-readme-stats)
